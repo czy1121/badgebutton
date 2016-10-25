@@ -2,7 +2,7 @@
  
 [![](https://jitpack.io/v/czy1121/badgebutton.svg)](https://jitpack.io/#czy1121/badgebutton)
  
-带有数字徽标的按钮
+带有徽标(小红点)的按钮
 
 ![badgebutton](screenshot.png)
 
