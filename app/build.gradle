@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.0"
 
     defaultConfig {
-        applicationId "com.github.czy1121.badgebutton.app"
+        applicationId "ezy.demo.badgebutton"
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1

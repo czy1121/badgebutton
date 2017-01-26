@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.czy1121.view;
+package ezy.ui.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -28,7 +28,7 @@ import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-import com.github.czy1121.badgebutton.R;
+import ezy.library.badgebutton.R;
 
 
 public final class BadgeButton extends TextView {

@@ -1,6 +1,4 @@
-# badgebutton
- 
-[![](https://jitpack.io/v/czy1121/badgebutton.svg)](https://jitpack.io/#czy1121/badgebutton)
+# BadgeButton [![](https://jitpack.io/v/czy1121/badgebutton.svg)](https://jitpack.io/#czy1121/badgebutton)
  
 带有徽标(数字，小红点)的按钮
 
@@ -11,12 +9,9 @@
 ``` groovy
 repositories { 
     maven { url "https://jitpack.io" }
-}
-```  
-    
-``` groovy
+} 
 dependencies {
-    compile 'com.github.czy1121:badgebutton:1.0.0'
+    compile 'com.github.czy1121:badgebutton:1.1.0'
 }
 ```
     
@@ -25,7 +20,7 @@ dependencies {
 **XML**
 
 ``` xml
-<com.github.czy1121.view.BadgeButton
+<ezy.ui.view.BadgeButton
     style="@style/BadgeButton.GridItem"
     android:drawableTop="@mipmap/list_3"
     android:text="Text"

@@ -1,4 +1,4 @@
-package com.github.czy1121.badgebutton.demo;
+package ezy.demo.badgebutton;
 
 import android.content.res.ColorStateList;
 import android.graphics.drawable.Drawable;
@@ -10,7 +10,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.github.czy1121.view.BadgeButton;
+
+
+import ezy.ui.view.BadgeButton;
 
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener  {
